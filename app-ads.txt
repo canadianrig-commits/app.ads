@@ -43,7 +43,6 @@ zmaticoo.com, 5135655, RESELLER
 
 
 
-
 mintegral.com, 57650, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
